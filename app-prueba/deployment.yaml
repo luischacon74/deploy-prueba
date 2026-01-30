@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: mi-app-python
-        image: DOCKER_USERNAME/mi-app-python:sha-COMMIT_SHA
+        image: lchacon74/mi-app-python:sha256:f87cda1ad88b4dcba8e011f3aece747d8911c2cdaa7194709af54a50fe8d596c
         imagePullPolicy: Always
         resources:
           requests:
