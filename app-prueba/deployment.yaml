@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: mi-app-python
-        image: lchacon74/mi-app-python:sha-8e69f59af1e7bd27ddf83340c49a76fedb6c17a8
+        image: lchacon74/mi-app-python:sha-13a75a0b9eaa0f83e9f2b542088da7e13d0bbfbf
         imagePullPolicy: Always
         resources:
           requests:
