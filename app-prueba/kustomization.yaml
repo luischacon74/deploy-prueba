@@ -6,5 +6,5 @@ namespace: default
 
 resources:
   - namespace.yaml
-  - configmap.yaml
+  - configmaps.yaml
   - deployment.yaml
