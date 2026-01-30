@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: mi-app-python
-  namespace: desafio-app
+  namespace: default
   labels:
     app: mi-app-python
     version: v1
